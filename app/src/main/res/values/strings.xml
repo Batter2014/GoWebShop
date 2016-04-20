@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoWebApp</string>
+
+    <!-- Main screen-->
+    <string name="welcome_text">Welcome to, GoWebApp</string>
+
+    <string name="action_books">Books</string>
+    <string name="action_exit">Exit</string>
+
+    <!-- Books screen-->
+    <string name="books_table_text">Available Books</string>
+</resources>
